@@ -1,5 +1,5 @@
 <h1>Bem vindo, meu nome é Igor dos Santos Rosa 🤙🏾</h1>
-<p>Sou estudante do curso superior de tecnologia em Análise e Desenvolvimento de Sistemas e estou estudando para adquirir e evoluir minhas habilidades na area de Data Science</p>
+<p>Sou estudante do curso superior de tecnologia em Análise e Desenvolvimento de Sistemas e estou estudando para adquirir e evoluir minhas habilidades na area de Data Science.</p>
 
 <hr>
 
