@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1>Bem vindo, meu nome é Igor dos Santos Rosa</h1>
 
-<!--
-**igoorsr/igoorsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><bold>Sobre mim:</bold></h3>
 
-Here are some ideas to get you started:
+<h4>Formação:</h4>
+- Cursando ensino superior - Tecnólogo em análise e desenvolvimento de sistemas (Conclusão DEZ/2024)<br>
+- Curso técnico completo - Eletroeletrônica (Conclusão JUL/2021)<br>
+- Inglês (Intermediário)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Linguagens que possuo conhecimento ou estou aprendendo:</h4>
+- Back-end: Java, C#, Node<br>
+- Front-end: Html, Css, JS e React<br>
+- Ciência de Dados, Big Data e Inteligencia Artificial: Python<br>
+- Cibersegurança<br>
+- Redes de Computadores<br>
+- Mobile: React Native e Node<br>
+- Banco de Dados: MySql, MongoDB, OracleDB<br>
+- Automação Industrial: Elipse E3, CLP
+
+<h4>Projetos:</h4>
+<div>
+  TEF Style (Site): https://tefstyle.azurewebsites.net <br>
+  TEF Style (Repositório): https://github.com/igoorsr/tefstore<br><br>
+
+  Raiz e Ritmo (Repositório): https://github.com/igoorsr/raizeritmo <br>
+</div>
+
+<h4>Principais competências</h4>
+- Aprendizado contínuo<br>
+- Resolução de problemas<br>
+- Criatividade<br>
+
+<h4>Redes Sociais</h4>
+<div> 
+  <a href="https://www.linkedin.com/in/igordsrosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:igordsrosaa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/igoorsr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
